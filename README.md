@@ -16,17 +16,17 @@ Những kinh nghiệm và cảm hứng về mô hình crowdsource cộng đồng
 
 ## Tới Hệ điều hành thông tin cứu nạn, cứu hộ
 
-Kể từ sau đợt mưa lũ lịch sử 2020, trải qua Covid-19 và cơn bão Yagi gây ra nhiều thiệt hại trong năm 2024, đội ngũ thực hiện dự án Cứu Hộ Miền Trung nhận thấy tình hình thảm hoạ thiên tai, bão lũ tại Việt Nam diễn biến ngày càng phức tạp, đòi hỏi phải có một hệ thống công nghệ hỗ trợ cho các nhóm tình nguyện cộng đồng mà có thể "bật là chạy ngay" để đáp ứng tốc độ ứng phó thảm hoạ.&#x20;
+Kể từ sau đợt mưa lũ lịch sử 2020, trải qua Covid-19 và cơn bão Yagi gây ra nhiều thiệt hại trong năm 2024, đội ngũ thực hiện dự án Cứu Hộ Miền Trung nhận thấy tình hình thảm hoạ thiên tai, bão lũ tại Việt Nam diễn biến ngày càng phức tạp. Bên cạnh những nỗ lực cải thiện của hệ thống chính quyền trong đối phó thiên tai, thảm hoạ, thì sự chung sức chung tay của cộng đồng vẫn là rất cần thiết. Do đó cần phải có một hệ thống công nghệ hỗ trợ cho các nhóm tình nguyện cộng đồng mà có thể "bật là chạy ngay" để đáp ứng tốc độ ứng phó thảm hoạ.&#x20;
 
 Bọn mình tạm gọi đây là "Hệ điều hành thông tin cứu nạn, cứu hộ" với ý nghĩa là một nền móng về công nghệ, quy trình, các nguồn lực hỗ trợ để giúp các nhóm tình nguyện phản ứng nhanh hơn trước thảm hoạ. Đồng thời sau mỗi thảm hoạ, thì những bài học kinh nghiệm, các tính năng mới cũng tiếp tục được cập nhật vào "Hệ điều hành" tạo tính kế thừa cho các đội nhóm sau.&#x20;
 
-"Hệ điều hành thông tin cứu nạn, cứu hộ" gồm 3 phần:
+["Hệ điều hành thông tin cứu nạn, cứu hộ"](chmt-he-dieu-hanh-cuu-nan-theo-mo-hinh-cong-dong.md) gồm 3 phần, được kế thừa trực tiếp từ dự án Cứu hộ Miền Trung trong quá khứ và đóng gói theo tinh thần "ấn là chạy":&#x20;
 
 * Mã nguồn mở website tổng hợp thông tin cứu nạn, cứu trợ: [https://github.com/Cuuhomientrung/cuuhomientrung](https://github.com/Cuuhomientrung/cuuhomientrung)
 * Guidebook hướng dẫn quy trình vận hành dự án từ A-Z: [https://docs.cuuhomientrung.com](https://docs.cuuhomientrung.com)
 * Cộng đồng cố vấn để tham khảo ý kiến & Xin nguồn lực hỗ trợ
 
-Hãy truy cập page dưới đây để xem hướng dẫn chi tiết cách sử dụng "Hệ điều hành" này
+Học đọc ["CHMT - Hệ điều hành cứu nạn theo mô hình cộng đồng"](chmt-he-dieu-hanh-cuu-nan-theo-mo-hinh-cong-dong.md) để tìm hiểu thêm về mô hình này hoặc xem hướng dẫn chi tiết cách khởi động dự án tại trang dưới đây
 
 {% content-ref url="khoi-dong-nhanh.md" %}
 [khoi-dong-nhanh.md](khoi-dong-nhanh.md)
