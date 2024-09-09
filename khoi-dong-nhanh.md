@@ -1,0 +1,2 @@
+# Khởi động nhanh
+
